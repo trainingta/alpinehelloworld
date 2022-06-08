@@ -1,3 +1,2 @@
 # alpinehelloworld
-An Alpine-based Docker example
-cd 
+An Alpine-based Docker example by ta
